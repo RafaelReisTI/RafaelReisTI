@@ -12,7 +12,7 @@
 ![Intelbras](https://img.shields.io/badge/Intelbras-009739?style=for-the-badge&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![HIKVISION](https://img.shields.io/badge/HIKVISION-D83B01?style=for-the-badge&logo=HIKVISION&logoColor=white)
+![HIKVISION](https://img.shields.io/badge/HIKVISION-D83B01?style=for-the-badge&logo=HIKVISION&logoColor=red)
 
 
 ## 📊 Estatísticas do GitHub
